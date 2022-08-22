@@ -1,5 +1,5 @@
 # empty-github-commit
-> push a new empty commit on GitHub using API
+> push a new empty commit on GitHub using API  
 > 推送一个空的GitHub提交到远程仓库
 
 ## 安装
